@@ -1,12 +1,12 @@
 ---
 title: "Steering Committee"
-date: 2021-06-25T11:41:17-04:00
+date: 2021-12-01T11:41:17-04:00
 draft: false
 ---
 
 * [Hans-Arno Jacobsen](https://www.eecg.utoronto.ca/~jacobsen/) (University of Toronto, Canada) - Chair
 * [Gordon Blair](https://www.lancaster.ac.uk/people-profiles/gordon-blair) (Lancaster University, UK)
-* [Bettina Kemme](https://www.cs.mcgill.ca/~kemme/) (McGill University, Canada) - ACM representative
+* [David Eyers](https://www.otago.ac.nz/computer-science/people/David_Eyers.html) (U. Otago, New Zealand) -- ACM representative
 * [Luis Veiga](https://www.gsd.inesc-id.pt/~lveiga/) (Technical University of Lisbon, Portugal) - IFIP representative
 * [K. R. Jayaram](http://www.jayaramkr.com) (IBM T. J. Watson Research Center, USA) - Information Officer
 * [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/) (Stony Brook University, USA)
