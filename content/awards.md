@@ -12,6 +12,7 @@ Test of Time Awards, since 2009, are listed below. Please note that author affil
 
 | Year of Award    | Paper | Authors |
 |----------|-------|---------|
+| **2021** | [GreenWare: greening cloud-scale data centers to maximize the use of renewable energy](https://dl.acm.org/doi/10.5555/2414338.2414350) | Yanwei Zhang, Yefu Wang (U. Tennessee, Knoxville, USA) and Xiaorui Wang (U. Tennessee, Knoxville, USA and The Ohio State University, Columbus, USA) | 
 | **2020** | [FLEX: a slot allocation scheduling optimizer for MapReduce workloads](https://dl.acm.org/doi/pdf/10.5555/2023718.2023720) | Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA) |
 | **2019** | [Calling the cloud: enabling mobile phones as interfaces to cloud applications](https://dl.acm.org/doi/10.5555/1813355.1813362) | Ioana Giurgiu, Oriana Riva, Dejan Juric, Ivan Krivulev, Gustavo Alonso (ETH Zurich, Switzerland) |
 | **2018** | [pMapper: power and migration cost aware application placement in virtualized systems](https://dl.acm.org/doi/10.5555/1496950.1496966) | Akshat Verma, (IBM Research, India), Puneet Ahuja, (IIT Delhi, India), Anindya Neogi (IBM Research, India) |
@@ -33,6 +34,7 @@ The shortlisting of candidate papers and selection of the Best Paper Award is ma
 
 | Year     | Paper | Authors |
 |----------|-------|---------|
+| **2021** | [SwitchFlow: preemptive multitasking for deep learning](https://dl.acm.org/doi/10.1145/3464298.3493391) | Xiaofeng Wu, Jia Rao (U. Texas at Arlington, USA),  Wei Chen (NVIDIA, USA), Hang Huang (Huazong University of Science and Technology, China), Chris H Q Ding (U. Texas at Arlington, USA), Heng Huang (U. Pittsburgh, USA) |
 | **2020** | [FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction](https://dl.acm.org/doi/abs/10.1145/3423211.3425685) | Georgios Damaskinos, Rachid Guerraoui, Anne-Marie Kermarrec (EPFL, Switzerland), Vlad Nitu (INSA Lyon, France), Rhicheek Patra (EPFL, Switzerland), and Francois Taiani (IRISA France) |
 | **2019** | [ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling](https://dl.acm.org/doi/10.1145/3361525.3361553) | Logan Stafman, Andrew Or and Michael J. Freedman (Princeton University) | 
 | **2018** | [QueCC: A Queue-oriented, Control-free Concurrency Architecture](https://dl.acm.org/doi/10.1145/3274808.3274810) | Thamir M. Qadah (Purdue University, USA) and Mohammad Sadoghi (UC Davis, USA) | 
@@ -58,6 +60,7 @@ The shortlisting of candidate papers and selection of the Best Student Paper Awa
 
 | Year     | Paper | Authors |
 |----------|-------|---------|
+| **2021** | [Sizeless: predicting the optimal size of serverless functions](https://dl.acm.org/doi/abs/10.1145/3464298.3493398) | Simon Eismann, Johannes Grohmann (U. Wurzburg, Germany), Cristina Abad (ESPOL, Ecuador), Nikolas Herbst and Samuel Kounev (U. Wurzburg, Germany) |
 | **2020** | [Resilient Cloud-based Replication with Low Latency](https://dl.acm.org/doi/10.1145/3423211.3425689) | Michael Eischer and Tobias Distler (Friedrich-Alexander University Erlangen-Nürnberg (FAU), Germany) |
 | **2019** | [Lazarus: Automatic Management of Diversity in BFT Systems](https://dl.acm.org/doi/10.1145/3361525.3361550) | Miguel Garcia, Alysson Bessani and Nuno Neves (University of Lisbon, Portugal) |
 | **2018** | [Adaptive Software Cache Management](https://dl.acm.org/doi/10.1145/3274808.3274816) | Gil Einziger (Ben Gurion Uni, Israel), Ohad Eytan (Technion, Israel), Roy Friedman (Technion, Israel) and Benjamin Manes |

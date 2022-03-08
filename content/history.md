@@ -1,12 +1,13 @@
 ---
 title: "History"
-date: 2021-06-25T11:40:45-04:00
+date: 2022-03-08T11:40:45-04:00
 draft: false
 ---
 
 | Year| Venue                 | Date            | General Chairs    | Program Chairs              | Acc. Rate | 
 | ----|-----------------------|-----------------|----------------------------------|-----------------------------|--------|
-| 2021| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | TBD |
+| 2022| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | TBD |
+| 2021| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | 28.1% |
 | 2020| Delft, Holland        | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
 | 2019| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
 | 2018| Rennes, France        | Nov 30 - Dec 4  | Guillaume Pierre                 | Paulo Ferreira, Liuba Shrira | 23.16% |

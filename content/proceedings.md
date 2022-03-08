@@ -15,6 +15,8 @@ The [ACM page of MIDDLEWARE](https://dl.acm.org/conference/middleware/proceeding
 
 ### Proceedings of the Main Research Track
 
+[MIDDLEWARE 2021](https://dl.acm.org/doi/proceedings/10.1145/3464298)
+
 [MIDDLEWARE 2020](https://dl.acm.org/doi/proceedings/10.1145/3423211)
 
 [MIDDLEWARE 2019](https://dl.acm.org/doi/proceedings/10.1145/3361525)
