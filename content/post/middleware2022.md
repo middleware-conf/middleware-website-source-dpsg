@@ -1,6 +1,6 @@
 ---
-title: "MIDDLEWARE 2022"
-date: 2021-12-01T13:08:32-04:00
+title: "Current Conference: MIDDLEWARE 2022"
+date: 2022-03-10T13:08:32-04:00
 draft: false
 ---
 
@@ -10,4 +10,4 @@ General Chairs: [Kaiwen Zhang](https://fuseelab.github.io/) and [Abdelouahed Ghe
 
 Program Chairs: [Saurabh Bagchi, Purdue University, USA](https://engineering.purdue.edu/~sbagchi/) and [Marta Patino-Martinez, Polytechnic University of Madrid, Spain](http://lsd.ls.fi.upm.es/Members/mpatino).
 
-We expect an in-person meeting in 2022.
+We are currently planning for a physical conference in Quebec City, scheduled for November 2022. Due to the current pandemic, our plans may change and require a virtual conference. We will provide updates as they become available through our various channels (Website, Twitter, Facebook, LinkedIn).

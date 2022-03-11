@@ -11,6 +11,5 @@ We deeply sympathize with those who have been affected in various ways by COVID-
 
 After considering various factors, MIDDLEWARE 2021 will also be fully virtual.
 
-We expect an in person meeting in 2022.
-
+We are currently planning for a physical conference in Quebec City, scheduled for November 2022. Due to the current pandemic, our plans may change and require a virtual conference. We will provide updates as they become available through our various channels (Website, Twitter, Facebook, LinkedIn).
 
