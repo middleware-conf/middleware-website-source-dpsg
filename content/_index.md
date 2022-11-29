@@ -10,11 +10,12 @@ The Middleware conference is a forum for the discussion of important innovations
 
 The scope of the conference is the design, implementation, deployment, and evaluation of distributed system platforms and architectures for future computing and communication environments. 
 
+#### [MIDDLEWARE 2023](https://2023.middleware-conf.org) will be held in Bologna, Italy.
 
 #### Contact
 
 For questions about the Middleware Conference, please contact the Steering Committee Chair: [Hans-Arno Jacobsen](https://www.eecg.utoronto.ca/~jacobsen/)
 
-For any questions or remarks about the Middleware Conference Web-site, please contact: [K. R. Jayaram](http://www.jayaramkr.com)
+For any questions or remarks about this web-site, please contact: [K. R. Jayaram](http://www.jayaramkr.com)
 
 
