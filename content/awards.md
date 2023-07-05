@@ -12,6 +12,7 @@ Test of Time Awards, since 2009, are listed below. Please note that author affil
 
 | Year of Award    | Paper | Authors |
 |----------|-------|---------|
+| **2022** | [SPADE: Support for Provenance Auditing in Distributed Environments](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_6) [Talk Slides](./files/MW-2022.Retrospective.pdf) | Ashish Gehani, Dawood Tariq (SRI International) |
 | **2021** | [GreenWare: greening cloud-scale data centers to maximize the use of renewable energy](https://dl.acm.org/doi/10.5555/2414338.2414350) | Yanwei Zhang, Yefu Wang (U. Tennessee, Knoxville, USA) and Xiaorui Wang (U. Tennessee, Knoxville, USA and The Ohio State University, Columbus, USA) | 
 | **2020** | [FLEX: a slot allocation scheduling optimizer for MapReduce workloads](https://dl.acm.org/doi/pdf/10.5555/2023718.2023720) | Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA) |
 | **2019** | [Calling the cloud: enabling mobile phones as interfaces to cloud applications](https://dl.acm.org/doi/10.5555/1813355.1813362) | Ioana Giurgiu, Oriana Riva, Dejan Juric, Ivan Krivulev, Gustavo Alonso (ETH Zurich, Switzerland) |
@@ -34,6 +35,7 @@ The shortlisting of candidate papers and selection of the Best Paper Award is ma
 
 | Year     | Paper | Authors |
 |----------|-------|---------|
+| **2022** | [MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing](https://dl.acm.org/doi/10.1145/3528535.3565254) | Difei Cao, Jinsun Yoo, Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran (Georgia Institute of Technology) |
 | **2021** | [SwitchFlow: preemptive multitasking for deep learning](https://dl.acm.org/doi/10.1145/3464298.3493391) | Xiaofeng Wu, Jia Rao (U. Texas at Arlington, USA),  Wei Chen (NVIDIA, USA), Hang Huang (Huazong University of Science and Technology, China), Chris H Q Ding (U. Texas at Arlington, USA), Heng Huang (U. Pittsburgh, USA) |
 | **2020** | [FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction](https://dl.acm.org/doi/abs/10.1145/3423211.3425685) | Georgios Damaskinos, Rachid Guerraoui, Anne-Marie Kermarrec (EPFL, Switzerland), Vlad Nitu (INSA Lyon, France), Rhicheek Patra (EPFL, Switzerland), and Francois Taiani (IRISA France) |
 | **2019** | [ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling](https://dl.acm.org/doi/10.1145/3361525.3361553) | Logan Stafman, Andrew Or and Michael J. Freedman (Princeton University) | 

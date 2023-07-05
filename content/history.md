@@ -6,7 +6,7 @@ draft: false
 
 | Year| Venue                 | Date            | General Chairs    | Program Chairs              | Acc. Rate | 
 | ----|-----------------------|-----------------|----------------------------------|-----------------------------|--------|
-| 2022| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | TBD |
+| 2022| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | 32.5% |
 | 2021| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | 28.1% |
 | 2020| Delft, Holland        | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
 | 2019| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
