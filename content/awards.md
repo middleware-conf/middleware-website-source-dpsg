@@ -12,7 +12,7 @@ Test of Time Awards, since 2009, are listed below. Please note that author affil
 
 | Year of Award    | Paper | Authors |
 |----------|-------|---------|
-| **2022** | [SPADE: Support for Provenance Auditing in Distributed Environments](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_6) [Talk Slides](./files/MW-2022.Retrospective.pdf) | Ashish Gehani, Dawood Tariq (SRI International) |
+| **2022** | [SPADE: Support for Provenance Auditing in Distributed Environments](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_6) [Talk Slides](../files/MW-2022.Retrospective.pdf) | Ashish Gehani, Dawood Tariq (SRI International) |
 | **2021** | [GreenWare: greening cloud-scale data centers to maximize the use of renewable energy](https://dl.acm.org/doi/10.5555/2414338.2414350) | Yanwei Zhang, Yefu Wang (U. Tennessee, Knoxville, USA) and Xiaorui Wang (U. Tennessee, Knoxville, USA and The Ohio State University, Columbus, USA) | 
 | **2020** | [FLEX: a slot allocation scheduling optimizer for MapReduce workloads](https://dl.acm.org/doi/pdf/10.5555/2023718.2023720) | Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA) |
 | **2019** | [Calling the cloud: enabling mobile phones as interfaces to cloud applications](https://dl.acm.org/doi/10.5555/1813355.1813362) | Ioana Giurgiu, Oriana Riva, Dejan Juric, Ivan Krivulev, Gustavo Alonso (ETH Zurich, Switzerland) |
