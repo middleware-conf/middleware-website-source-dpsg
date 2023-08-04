@@ -12,6 +12,8 @@ The scope of the conference is the design, implementation, deployment, and evalu
 
 #### [MIDDLEWARE 2023](https://2023.middleware-conf.org) will be held in Bologna, Italy.
 
+#### [MIDDLEWARE 2024](https://2024.middleware-conf.org) will be held in Hong Kong, China.
+
 #### Contact
 
 For questions about the Middleware Conference, please contact the Steering Committee Chair: [Hans-Arno Jacobsen](https://www.eecg.utoronto.ca/~jacobsen/)
