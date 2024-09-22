@@ -1,6 +1,6 @@
 ---
 title: "Proceedings"
-date: 2023-07-T11:40:59-04:00
+date: 2024-09-22
 draft: false
 ---
 
@@ -14,6 +14,10 @@ For your convenience, the proceedings of the main research track of MIDDLEWARE a
 The [ACM page of MIDDLEWARE](https://dl.acm.org/conference/middleware/proceedings) links proceedings of the Industry Track and several workshops that have been affiliated with MIDDLEWARE.
 
 ### Proceedings of the Main Research Track
+
+[MIDDLEWARE 2023](https://dl.acm.org/doi/proceedings/10.1145/3590140)
+
+[MIDDLEWARE 2022](https://dl.acm.org/doi/proceedings/10.1145/3528535)
 
 [MIDDLEWARE 2021](https://dl.acm.org/doi/proceedings/10.1145/3464298)
 
