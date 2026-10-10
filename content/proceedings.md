@@ -1,8 +1,14 @@
 ---
 title: "Proceedings"
-date: 2024-09-22
+date: 2026-10-10
 draft: false
 ---
+
+> #### Important update on ACM's new open access publishing model for 2026 ACM Conferences!
+>
+> Starting **January 1, 2026**, ACM will fully transition to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).
+>
+> Authors from institutions not participating in ACM Open will need to pay an APC to publish their papers, unless they qualify for a financial waiver. To find out whether an APC applies to your article, please consult the [list of participating institutions in ACM Open](https://libraries.acm.org/acmopen/open-participants) and review the [ACM Policy on Discretionary Open Access APC Waivers](https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers). Keep in mind that waivers are rare and are granted based on specific criteria set by ACM.
 
 From 2014 onwards, the proceedings of MIDDLEWARE are [published by ACM](https://dl.acm.org/conference/middleware). 
 

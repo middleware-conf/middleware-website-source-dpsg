@@ -5,7 +5,8 @@ Source for https://middleware-conf.github.io (published from
 ## Updating the site
 
 1. Edit the Markdown files in `content/` (home page: `content/_index.md`).
-   The menu is in `config.toml`.
+   The menu is in `config.toml`. When you change a page, also update the
+   `date:` line at its top; it is shown on the page as the date it was updated.
 2. Build with [Hugo 0.128.2](https://github.com/gohugoio/hugo/releases/tag/v0.128.2)
    by running `hugo` in this directory. The theme is vendored in
    `themes/mainroad`; the output goes to `public/`.
