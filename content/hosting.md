@@ -4,7 +4,7 @@ date: 2024-09-22
 draft: false
 ---
 
-### The Steering Committee is currently looking for bids to host MIDDLEWARE 2027. 
+### The Steering Committee is currently looking for sites to host MIDDLEWARE 2029 and later.
 
 The Middleware conference **plans at least two years ahead** and is accepting expressions of interest (EOI) and proposals to host future conferences at any time. An EOI is put forward informally by email to the Chair of the Steering Committee of the Middleware Conference. The Steering Committee will then be in touch with the applicants to work towards the submission of a conference hosting proposal for a targeted year. The Steering Committee reserves the right to discourage applicants to go forward with a proposal. An EOI is required in order to submit a proposal.
 

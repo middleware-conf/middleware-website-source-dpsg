@@ -15,6 +15,10 @@ The [ACM page of MIDDLEWARE](https://dl.acm.org/conference/middleware/proceeding
 
 ### Proceedings of the Main Research Track
 
+[MIDDLEWARE 2025](https://dl.acm.org/doi/proceedings/10.1145/3721462)
+
+[MIDDLEWARE 2024](https://dl.acm.org/doi/proceedings/10.1145/3652892)
+
 [MIDDLEWARE 2023](https://dl.acm.org/doi/proceedings/10.1145/3590140)
 
 [MIDDLEWARE 2022](https://dl.acm.org/doi/proceedings/10.1145/3528535)
