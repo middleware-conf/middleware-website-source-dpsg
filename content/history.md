@@ -6,6 +6,7 @@ draft: false
 
 | Year| Venue                 | Date            | General Chairs    | Program Chairs              | Acc. Rate | 
 | ----|-----------------------|-----------------|----------------------------------|-----------------------------|--------|
+| 2027| Kyoto, Japan          | Dec 13 - 17     |                                  | Klara Nahrstedt, Etienne Rivière |  |
 | 2023| Bologna, Italy        | Dec 11 - 15     | Paolo Bellavista, Jiannong Cao | Christine Julien, Pramod Bhatotia |  |
 | 2022| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | 32.5% |
 | 2021| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | 28.1% |

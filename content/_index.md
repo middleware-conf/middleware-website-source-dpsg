@@ -10,9 +10,9 @@ The Middleware conference is a forum for the discussion of important innovations
 
 The scope of the conference is the design, implementation, deployment, and evaluation of distributed system platforms and architectures for future computing and communication environments. 
 
-#### [MIDDLEWARE 2024](https://2024.middleware-conf.org) will be held in Hong Kong, China.
+#### [MIDDLEWARE 2026](https://middleware-conf.github.io/2026) will be held in Tarragona, Spain.
 
-#### [MIDDLEWARE 2025](https://middleware-conf.github.io/2025) will be held in Nashville, TN, USA
+#### [MIDDLEWARE 2027](https://middleware-conf.github.io/2027) will be held in Kyoto, Japan.
 
 
 #### Contact
