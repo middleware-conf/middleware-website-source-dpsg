@@ -1,0 +1,18 @@
+# Conferences shown as cards at the top of the home page, in order.
+# Remove a conference once it has taken place.
+
+[[conference]]
+  name = "MIDDLEWARE 2026"
+  edition = "27th ACM International Middleware Conference"
+  city = "Tarragona, Spain"
+  host = "Universitat Rovira i Virgili"
+  dates = "December 14–18, 2026"
+  url = "https://middleware-conf.github.io/2026/"
+
+[[conference]]
+  name = "MIDDLEWARE 2027"
+  edition = "28th ACM/IFIP International Middleware Conference"
+  city = "Kyoto, Japan"
+  dates = "December 13–17, 2027"
+  url = "https://middleware-conf.github.io/2027/"
+  note = "Winter-cycle abstracts due November 27, 2026"

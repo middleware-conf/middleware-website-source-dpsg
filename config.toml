@@ -4,6 +4,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
+disableKinds = ["taxonomy", "term"] # no tag/category pages
 
 [Author] # Used in authorbox
   name = "Last Updated"

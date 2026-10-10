@@ -1,0 +1,39 @@
+{{- /* Site override of the Mainroad home page: upcoming-conference cards
+       (data/upcoming.toml) and a "Latest" list (data/news.toml) above the
+       text of content/_index.md. */ -}}
+{{ define "main" }}
+<main class="main list home" role="main">
+	{{- with .Site.Data.upcoming.conference }}
+	<section class="upcoming" aria-labelledby="upcoming-title">
+		<h2 id="upcoming-title" class="home__heading">Upcoming conferences</h2>
+		<div class="upcoming__grid">
+			{{- range . }}
+			<a class="upcoming__card" href="{{ .url }}">
+				<span class="upcoming__name">{{ .name }}</span>
+				<span class="upcoming__edition">{{ .edition }}</span>
+				<span class="upcoming__where">{{ .city }}{{ with .host }} · {{ . }}{{ end }}</span>
+				<span class="upcoming__when">{{ .dates }}</span>
+				{{- with .note }}<span class="upcoming__note">{{ . }}</span>{{ end }}
+				<span class="upcoming__more">Conference website →</span>
+			</a>
+			{{- end }}
+		</div>
+	</section>
+	{{- end }}
+	{{- with .Site.Data.news.item }}
+	<section class="news" aria-labelledby="news-title">
+		<h2 id="news-title" class="home__heading">Latest</h2>
+		<ul class="news__list">
+			{{- range . }}
+			<li><a href="{{ .url }}">{{ .text }}</a></li>
+			{{- end }}
+		</ul>
+	</section>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+</main>
+{{ end }}

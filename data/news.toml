@@ -1,0 +1,14 @@
+# Short items shown under "Latest" on the home page, newest first.
+# `url` may be a page on this site (e.g. "/proceedings/") or a full link.
+
+[[item]]
+  text = "ACM moves to full Open Access for publications from January 1, 2026: what it means for authors"
+  url = "/proceedings/"
+
+[[item]]
+  text = "2024 and 2025 Best Paper, Best Student Paper and Test of Time awards added"
+  url = "/awards/"
+
+[[item]]
+  text = "The Steering Committee is looking for sites to host MIDDLEWARE 2029 and later"
+  url = "/hosting/"

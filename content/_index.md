@@ -4,16 +4,11 @@ page: true
 
 ---
 
-### Welcome to the website of the MIDDLEWARE series of conferences!
+### About MIDDLEWARE
 
 The Middleware conference is a forum for the discussion of important innovations and recent advances in the design, construction and uses of middleware. Middleware is a distributed-system software that resides between applications and underlying platforms (operating systems; databases; hardware), and/or ties together distributed applications, databases or devices. Its primary role is to coordinate and enable communication between different layers or components while isolating much of the complexity of distribution into a single, well tested and well understood system abstraction.
 
 The scope of the conference is the design, implementation, deployment, and evaluation of distributed system platforms and architectures for future computing and communication environments. 
-
-#### [MIDDLEWARE 2026](https://middleware-conf.github.io/2026) will be held in Tarragona, Spain.
-
-#### [MIDDLEWARE 2027](https://middleware-conf.github.io/2027) will be held in Kyoto, Japan.
-
 
 #### Contact
 
