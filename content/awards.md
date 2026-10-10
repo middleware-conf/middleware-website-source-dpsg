@@ -1,8 +1,12 @@
 ---
 title: "Award Winners"
-date: 2024-09-22
+date: 2026-10-10
 draft: false
 ---
+
+The 2026 awards will be announced at [MIDDLEWARE 2026](https://middleware-conf.github.io/2026/) in Tarragona.
+
+Since 2022, the Program Committee also recognizes runner-up papers for the Best Paper and Best Student Paper Awards (called *Honorable Mentions* from 2025). They are listed in *italics* directly below the winner of the same year.
 
 ### Test of Time Award
 
@@ -13,6 +17,8 @@ Test of Time Awards, since 2009, are listed below. Please note that author affil
 
 | Year of Award    | Paper | Authors |
 |----------|-------|---------|
+| **2025** | [R-Storm: Resource-Aware Scheduling in Storm](https://dl.acm.org/doi/10.1145/2814576.2814808) | Boyang Peng, Mohammad Hosseini, Zhihao Hong (UIUC, USA), Reza Farivar (Yahoo, USA) and Roy Campbell (UIUC, USA) |
+| **2024**&#42; | [Mitigating interference in cloud services by middleware reconfiguration](https://dl.acm.org/doi/10.1145/2663165.2663330) | Amiya Maji, Subrata Mitra, Bowen Zhou, Saurabh Bagchi (Purdue University, USA) and Akshat Verma (IBM Research, India) |
 | **2023** | [Testing Idempotence for Infrastructure as Code](https://link.springer.com/chapter/10.1007/978-3-642-45065-5_19)| Waldemar Hummer (TU Wien, Austria), Florian Rosenberg, Fabio Oliveira and Tamar Eilam (IBM Research, USA) | 
 | **2022** | [SPADE: Support for Provenance Auditing in Distributed Environments](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_6) [Talk Slides](../files/MW-2022.Retrospective.pdf) | Ashish Gehani, Dawood Tariq (SRI International) |
 | **2021** | [GreenWare: greening cloud-scale data centers to maximize the use of renewable energy](https://dl.acm.org/doi/10.5555/2414338.2414350) | Yanwei Zhang, Yefu Wang (U. Tennessee, Knoxville, USA) and Xiaorui Wang (U. Tennessee, Knoxville, USA and The Ohio State University, Columbus, USA) | 
@@ -29,6 +35,8 @@ Test of Time Awards, since 2009, are listed below. Please note that author affil
 | **2009** | [An architecture for next generation middleware](https://dl.acm.org/doi/10.5555/1659232.1659249) | Gordon S. Blair, Geoff Coulson, Philippe Robin and Michael Papathomas (Lancaster University, UK) |
 | **2009** | [A gossip-style failure detection service](https://dl.acm.org/doi/10.5555/1659232.1659238) | Robbert van Renesse, Yaron Minsky and Mark Hayden (Cornell University, USA) |
 
+&#42; The 2024 Test of Time Award was presented at MIDDLEWARE 2025, together with the 2025 award.
+
 
 ### Best Paper  Award
 
@@ -37,7 +45,13 @@ The shortlisting of candidate papers and selection of the Best Paper Award is ma
 
 | Year     | Paper | Authors |
 |----------|-------|---------|
+| **2025** | [Recipe: Hardware-Accelerated Replication Protocols](https://dl.acm.org/doi/10.1145/3721462.3770763) | Dimitra Giantsidi (Microsoft Research Cambridge, UK), Emmanouil Giortamis, Julian Pritzi (TU Munich, Germany), Maurice Bailleu (Huawei Research), Manos Kapritsos (University of Michigan, USA), Pramod Bhatotia (TU Munich, Germany) |
+| *2025 Honorable Mention* | *[HARP: Energy-Aware and Adaptive Management of Heterogeneous Processors](https://dl.acm.org/doi/10.1145/3721462.3770774)* | *Till Smejkal, Robert Khasanov, Jeronimo Castrillon, Hermann Härtig (TU Dresden, Germany)* |
+| **2024** | [Banyan: Fast Rotating Leader BFT](https://dl.acm.org/doi/10.1145/3652892.3700788) | Yann Vonlanthen, Jakub Sliwinski, Massimo Albarello, Roger Wattenhofer (ETH Zurich, Switzerland) |
+| *2024 Runner-up* | *[Chasing Lightspeed Consensus: Fast Wide-Area Byzantine Replication with Mercury](https://dl.acm.org/doi/10.1145/3652892.3700756)* | *Christian Berger (University of Passau, Germany), Lívio Rodrigues (Universidade de Lisboa, Portugal), Hans P. Reiser (Reykjavik University, Iceland), Vinicius Cogo, Alysson Bessani (Universidade de Lisboa, Portugal)* |
 | **2022** | [MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing](https://dl.acm.org/doi/10.1145/3528535.3565254) | Difei Cao, Jinsun Yoo, Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran (Georgia Institute of Technology) |
+| *2022 Runner-up* | *[CGX: Adaptive System Support for Communication-Efficient Deep Learning](https://dl.acm.org/doi/10.1145/3528535.3565248)* | *Ilia Markov (IST Austria), Hamidreza Ramezanikebrya (University of British Columbia, Canada), Dan Alistarh (IST Austria)* |
+| *2022 Runner-up* | *[Shielding Federated Learning Systems against Inference Attacks with ARM TrustZone](https://dl.acm.org/doi/10.1145/3528535.3565255)* | *Aghiles Ait Messaoud, Vlad Nitu (INSA Lyon, France), Sonia Ben Mokhtar (LIRIS CNRS, France), Valerio Schiavoni (University of Neuchâtel, Switzerland)* |
 | **2021** | [SwitchFlow: preemptive multitasking for deep learning](https://dl.acm.org/doi/10.1145/3464298.3493391) | Xiaofeng Wu, Jia Rao (U. Texas at Arlington, USA),  Wei Chen (NVIDIA, USA), Hang Huang (Huazong University of Science and Technology, China), Chris H Q Ding (U. Texas at Arlington, USA), Heng Huang (U. Pittsburgh, USA) |
 | **2020** | [FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction](https://dl.acm.org/doi/abs/10.1145/3423211.3425685) | Georgios Damaskinos, Rachid Guerraoui, Anne-Marie Kermarrec (EPFL, Switzerland), Vlad Nitu (INSA Lyon, France), Rhicheek Patra (EPFL, Switzerland), and Francois Taiani (IRISA France) |
 | **2019** | [ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling](https://dl.acm.org/doi/10.1145/3361525.3361553) | Logan Stafman, Andrew Or and Michael J. Freedman (Princeton University) | 
@@ -64,6 +78,9 @@ The shortlisting of candidate papers and selection of the Best Student Paper Awa
 
 | Year     | Paper | Authors |
 |----------|-------|---------|
+| **2025** | [Full Trust Alchemist: Reforging Attestation for Cloud-based Confidential Workloads](https://dl.acm.org/doi/10.1145/3721462.3770778) | Anna Galanou, Florian Lubitz (TU Dresden, Germany), Hajeong Jeon (RWTH Aachen, Germany), Christof Fetzer (TU Dresden, Germany), Rüdiger Kapitza (FAU Erlangen-Nürnberg, Germany) |
+| *2025 Honorable Mention* | *[Stabl: The Sensitivity of Blockchains to Failures](https://dl.acm.org/doi/10.1145/3721462.3730952)* | *Vincent Gramoli (University of Sydney and Redbelly Network, Australia), Rachid Guerraoui (EPFL, Switzerland), Andrei Lebedev (University of Sydney, Australia), Gauthier Voron (EPFL, Switzerland)* |
+| **2024** | [L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh](https://dl.acm.org/doi/10.1145/3652892.3654793) | Olivier Michaelis, Stefan Schmid (TU Berlin, Germany), Habib Mostafaei (Eindhoven University of Technology, Netherlands) |
 | **2021** | [Sizeless: predicting the optimal size of serverless functions](https://dl.acm.org/doi/abs/10.1145/3464298.3493398) | Simon Eismann, Johannes Grohmann (U. Wurzburg, Germany), Cristina Abad (ESPOL, Ecuador), Nikolas Herbst and Samuel Kounev (U. Wurzburg, Germany) |
 | **2020** | [Resilient Cloud-based Replication with Low Latency](https://dl.acm.org/doi/10.1145/3423211.3425689) | Michael Eischer and Tobias Distler (Friedrich-Alexander University Erlangen-Nürnberg (FAU), Germany) |
 | **2019** | [Lazarus: Automatic Management of Diversity in BFT Systems](https://dl.acm.org/doi/10.1145/3361525.3361550) | Miguel Garcia, Alysson Bessani and Nuno Neves (University of Lisbon, Portugal) |
