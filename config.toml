@@ -81,6 +81,27 @@ theme = "mainroad"
     weight = 4
 
   [[menu.main]]
+    identifier = "awards-tot"
+    name = "Test of Time Award"
+    url = "/awards/test-of-time/"
+    parent = "awards"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "awards-bp"
+    name = "Best Paper Award"
+    url = "/awards/best-paper/"
+    parent = "awards"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "awards-bsp"
+    name = "Best Student Paper Award"
+    url = "/awards/best-student-paper/"
+    parent = "awards"
+    weight = 3
+
+  [[menu.main]]
     identifier = "steering"
     name = "Steering Committee"
     url = "/steering/"

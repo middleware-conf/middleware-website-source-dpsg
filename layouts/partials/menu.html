@@ -1,0 +1,36 @@
+{{- /* Site override of the Mainroad menu: adds one level of submenus
+       (menu entries with a `parent` in config.toml). */ -}}
+{{- if .Site.Menus.main }}
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">{{ T "menu_label" }}</span>
+	</button>
+	<ul class="menu__list">
+		{{- $currentNode := . }}
+		{{- range .Site.Menus.main }}
+		{{- if .Name }}
+		{{- $active := or (eq .URL $currentNode.RelPermalink) ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+		{{- range .Children }}{{ if eq .URL $currentNode.RelPermalink }}{{ $active = true }}{{ end }}{{ end }}
+		<li class="menu__item{{ if $active }} menu__item--active{{ end }}{{ if .HasChildren }} menu__item--parent{{ end }}">
+			<a class="menu__link" href="{{ .URL }}">
+				{{ .Pre }}
+				<span class="menu__text">{{ .Name }}</span>
+				{{ .Post }}
+			</a>
+			{{- if .HasChildren }}
+			<ul class="menu__sub">
+				{{- range .Children }}
+				<li class="menu__subitem{{ if eq .URL $currentNode.RelPermalink }} menu__subitem--active{{ end }}">
+					<a class="menu__link menu__sublink" href="{{ .URL }}">{{ .Name }}</a>
+				</li>
+				{{- end }}
+			</ul>
+			{{- end }}
+		</li>
+		{{- end }}
+		{{- end }}
+	</ul>
+</nav>
+{{ else -}}
+<div class="divider"></div>
+{{- end }}
