@@ -24,9 +24,9 @@ draft: false
 | 2012| Montreal, Canada      | Dec 3 - 7       | Bettina Kemme                    | Priya Narasimhan, Peter Triantafillou | 19.20% |
 | 2011| Lisbon, Portugal      | Dec 12 - 16     | Paulo Ferreira, Luis Veiga       | Anne-Marie Kermarrec, Fabio Kon | 19.20% |
 | 2010| Bangalore, India      | Nov 29 - Dec 3  | Guruduth Banavar                 | Cecilia Mascolo, Indranil Gupta | 16.38% |
-| 2009| Urbana Champaign, USA | Nov 30 - Dec 4  | Roy Campbell                     | Jean Bacon, Brian F. Cooper | 19.09% |
-| 2008| Leuven, Belgium       | Dec 1 - 5       | Wouter Joosen, Yolande Berbers   | Valérie Issarny, Rick Schantz | 17.95% |
-| 2007| Newport Beach, USA    | Nov 26 - 30     | Nalini Venkatasubramanian        | Roy Campbell, Renato Cerqueira | 20.37% |
+| [2009](https://middleware2009.cs.uiuc.edu/)| Urbana Champaign, USA | Nov 30 - Dec 4  | Roy Campbell                     | Jean Bacon, Brian F. Cooper | 19.09% |
+| [2008](https://middleware2008.cs.kuleuven.be/)| Leuven, Belgium       | Dec 1 - 5       | Wouter Joosen, Yolande Berbers   | Valérie Issarny, Rick Schantz | 17.95% |
+| [2007](https://ics.uci.edu/~ucrec/Templates/middleware.dwt)| Newport Beach, USA    | Nov 26 - 30     | Nalini Venkatasubramanian        | Roy Campbell, Renato Cerqueira | 20.37% |
 | 2006| Melbourne, Australia  | Nov 27 - Dec 1  | Joseph Sventek, Yshanika Karunasekera | Michi Henning, Maarten van Steen  | 17.22% |
 | 2005| Grenoble, France      | Nov 28 - Dec 2  | Jean-Bernard Stefani             | Gustavo Alonso | 16.07% |
 | 2004| Toronto, Canada       | Oct 18 - 22     | Steve Vinoski                    | Hans-Arno Jacobsen | 12.89% |
