@@ -25,12 +25,12 @@ disableKinds = ["taxonomy", "term"] # no tag/category pages
   post_meta = ["date"] # Order of post meta information
   mainSections = [] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "Jan 2, 2006" # Change the format of dates
-  customCSS = ["css/dark.css", "css/custom.css"] # dark.css: dark mode; custom.css: highlighted notices
+  customCSS = ["css/palette.css", "css/dark.css", "css/custom.css"] # palette.css: all colours (light + dark); dark.css: applies them to the theme; custom.css: site additions
 
 
 
 [Params.style.vars]
-  highlightColor = "#003056" # Override main theme color
+  highlightColor = "var(--accent-fill)" # Theme accent; colours are set in assets/css/palette.css
 
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"

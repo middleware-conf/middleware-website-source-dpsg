@@ -6,6 +6,7 @@ Source for https://middleware-conf.github.io (published from
 
 1. Edit the Markdown files in `content/` (home page text: `content/_index.md`;
    home page cards: `data/upcoming.toml`; "Latest" list: `data/news.toml`).
+   Colours (light and dark mode) are all in `assets/css/palette.css`.
    The menu is in `config.toml`; give an entry `parent = "<identifier>"` to
    show it in a drop-down under that item (see the Award Winners entries). When you change a page, also update the
    `date:` line at its top; it is shown on the page as the date it was updated.
