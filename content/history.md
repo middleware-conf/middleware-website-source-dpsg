@@ -1,6 +1,6 @@
 ---
 title: "History"
-date: 2026-10-10
+date: 2026-10-11
 draft: false
 ---
 
@@ -13,13 +13,13 @@ draft: false
 | [2023](https://middleware-conf.github.io/2023/)| Bologna, Italy        | Dec 11 - 15     | Paolo Bellavista, Jiannong Cao | Christine Julien, Pramod Bhatotia |  |
 | [2022](https://middleware-conf.github.io/2022/)| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | 32.5% |
 | [2021](https://middleware-conf.github.io/2021/)| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | 28.1% |
-| 2020| Delft, Holland        | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
-| 2019| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
-| 2018| Rennes, France        | Nov 30 - Dec 4  | Guillaume Pierre                 | Paulo Ferreira, Liuba Shrira | 23.16% |
-| 2017| Las Vegas, USA        | Dec 1 - 5       | K. R. Jayaram, Anshul Gandhi     | Bettina Kemme, Peter Pietzuch | 23.53% |
-| 2016| Trento, Italy         | Nov 26 - 30     | Gian Pietro Picco                | Sonia Ben Mokhtar, Dejan Milojicic | 19.63% |
+| [2020](https://2020.middleware-conference.org/)| Delft, Netherlands (virtual) | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
+| [2019](https://2019.middleware-conference.org/)| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
+| [2018](https://middleware-conf.github.io/2018/)| Rennes, France        | Nov 30 - Dec 4  | Guillaume Pierre                 | Paulo Ferreira, Liuba Shrira | 23.16% |
+| [2017](https://middleware-conf.github.io/2017/)| Las Vegas, USA        | Dec 1 - 5       | K. R. Jayaram, Anshul Gandhi     | Bettina Kemme, Peter Pietzuch | 23.53% |
+| [2016](http://2016.middleware-conference.org/)| Trento, Italy         | Nov 26 - 30     | Gian Pietro Picco                | Sonia Ben Mokhtar, Dejan Milojicic | 19.63% |
 | 2015| Vancouver, Canada     | Nov 27 - Dec 1  | Sathish Gopalakrishnan, Rodger Lea | Eli Tilevich, Amy L. Murphy  | 19.49% |
-| 2014| Bordeaux, France      | Nov 28 - Dec 2  | Laurent Réveillère                 | Lucy Cherkasova, François Taïani | 18.75% |
+| [2014](https://middleware-conf.github.io/2014/)| Bordeaux, France      | Nov 28 - Dec 2  | Laurent Réveillère                 | Lucy Cherkasova, François Taïani | 18.75% |
 | 2013| Beijing, China        | Oct 18 - 22     | Gang Huang, Rick Schantz         | David Eyers, Karsten Schwan | 18.75% |
 | 2012| Montreal, Canada      | Dec 3 - 7       | Bettina Kemme                    | Priya Narasimhan, Peter Triantafillou | 19.20% |
 | 2011| Lisbon, Portugal      | Dec 12 - 16     | Paulo Ferreira, Luis Veiga       | Anne-Marie Kermarrec, Fabio Kon | 19.20% |
