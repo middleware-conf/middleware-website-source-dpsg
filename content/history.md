@@ -13,8 +13,8 @@ draft: false
 | [2023](https://middleware-conf.github.io/2023/)| Bologna, Italy        | Dec 11 - 15     | Paolo Bellavista, Jiannong Cao | Christine Julien, Pramod Bhatotia |  |
 | [2022](https://middleware-conf.github.io/2022/)| Quebec City, Canada   | Nov 7 - 11      | Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista | Saurabh Bagchi, Marta Patino-Martinez | 32.5% |
 | [2021](https://middleware-conf.github.io/2021/)| Quebec City, Canada   | Dec 6 - 10      | Kaiwen Zhang, Abdelouahed Gherbi | Nalini Venkatasubramanian, Luís Veiga | 28.1% |
-| [2020](https://2020.middleware-conference.org/)| Delft, Netherlands (virtual) | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
-| [2019](https://2019.middleware-conference.org/)| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
+| [2020](https://middleware-conf.github.io/2020/)| Delft, Netherlands (virtual) | Dec 7 - 11      | Jan S. Rellermeyer               | Dilma Da Silva, Rüdiger Kapitza | 25.21% |
+| [2019](https://middleware-conf.github.io/2019/)| Davis, USA            | Dec 9 - 13      | Mo Sadoghi, Roman Vitenberg      | Robbert van Renesse, Vana Kalogeraki | 24.03% |
 | [2018](https://middleware-conf.github.io/2018/)| Rennes, France        | Nov 30 - Dec 4  | Guillaume Pierre                 | Paulo Ferreira, Liuba Shrira | 23.16% |
 | [2017](https://middleware-conf.github.io/2017/)| Las Vegas, USA        | Dec 1 - 5       | K. R. Jayaram, Anshul Gandhi     | Bettina Kemme, Peter Pietzuch | 23.53% |
 | [2016](http://2016.middleware-conference.org/)| Trento, Italy         | Nov 26 - 30     | Gian Pietro Picco                | Sonia Ben Mokhtar, Dejan Milojicic | 19.63% |
