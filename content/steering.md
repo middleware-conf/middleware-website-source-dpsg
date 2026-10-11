@@ -1,6 +1,6 @@
 ---
 title: "Steering Committee"
-date: 2024-09-22
+date: 2026-10-11
 draft: false
 ---
 
@@ -30,3 +30,7 @@ draft: false
 * [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) (Hong Kong Polytechnic University, Hong Kong)
 * [Christine Julien](https://users.ece.utexas.edu/~julien/)(University of Texas, Austin, USA)
 * [Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)(TU Munich, Germany)
+* [Zhi Jin](https://faculty.pku.edu.cn/zhijin/en/index.htm) (Peking University, China)
+* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (University of Neuchâtel, Switzerland)
+* [Aniruddha Gokhale](https://www.dre.vanderbilt.edu/~gokhale/) (Vanderbilt University, USA)
+* [Lydia Y. Chen](https://www.lydiaychen.com/) (University of Neuchâtel, Switzerland and TU Delft, Netherlands)
