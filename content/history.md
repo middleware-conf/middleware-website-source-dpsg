@@ -6,7 +6,7 @@ draft: false
 
 | Year| Venue                 | Date            | General Chairs    | Program Chairs              | Acc. Rate | 
 | ----|-----------------------|-----------------|----------------------------------|-----------------------------|--------|
-| [2027](https://middleware-conf.github.io/2027/)| Kyoto, Japan          | Dec 13 - 17     |                                  | Klara Nahrstedt, Etienne Rivière |  |
+| [2027](https://middleware-conf.github.io/2027/)| Kyoto, Japan          | Dec 13 - 17     | Kazuyuki Shudo                   | Klara Nahrstedt, Etienne Rivière |  |
 | [2026](https://middleware-conf.github.io/2026/)| Tarragona, Spain      | Dec 14 - 18     | Pedro García López               | Sara Bouchenak, Abhishek Chandra |  |
 | [2025](https://middleware-conf.github.io/2025/)| Nashville, USA        | Dec 15 - 19     | Aniruddha S. Gokhale             | Mohammad Sadoghi, Lydia Y. Chen |  |
 | [2024](https://middleware-conf.github.io/2024/)| Hong Kong, China      | Dec 2 - 6       | Jiannong Cao                     | Zhi Jin, Valerio Schiavoni |  |
